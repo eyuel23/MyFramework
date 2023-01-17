@@ -11,6 +11,8 @@
     "build:docs": "vuepress build book && rm -rf ./docs && mv ./book/.vuepress/dist ./docs"
   },
   "dependencies": {
+    "browserlist": "^1.0.1",
+    "browserslist": "^4.21.4",
     "deasync": "^0.1.28",
     "parcel-bundler": "^1.12.4",
     "snabbdom": "^0.7.4"
