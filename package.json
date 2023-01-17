@@ -13,7 +13,7 @@
   "dependencies": {
     "deasync": "^0.1.28",
     "parcel-bundler": "^1.12.4",
-    "snabbdom": "^0.7.1"
+    "snabbdom": "^0.7.4"
   },
   "devDependencies": {
     "babel-core": "^6.26.3",
